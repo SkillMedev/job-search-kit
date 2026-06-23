@@ -1,8 +1,8 @@
 # Job Search Kit
 
-**Land the offer — applications, outreach, networking, and negotiation.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For job seekers: tailored applications to a signed offer, plus outreach and negotiation.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-A focused kit for your job hunt. Tailor applications, write cold outreach and a standout LinkedIn presence, build a networking system, and negotiate the offer with confidence.
+Reach for this when you are actively job hunting and want every stage to pull in the same direction. Land more first conversations with applications tuned to the role and outreach that earns replies, turn a thin network into a steady stream of warm intros, and walk into the offer talk with the anchoring and BATNA prep to capture what you are worth. One kit for the whole search, from first application to signed offer.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
