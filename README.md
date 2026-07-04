@@ -9,7 +9,7 @@ Reach for this when you are actively job hunting and want every stage to pull in
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/job-search-kit](https://skillme.dev/pack/job-search-kit) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/job-search-kit`
+- **With the skills CLI:** `npx skills add SkillMedev/job-search-kit`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
