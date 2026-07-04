@@ -2,7 +2,7 @@
 
 **For job seekers: tailored applications to a signed offer, plus outreach and negotiation.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-Reach for this when you are actively job hunting and want every stage to pull in the same direction. Land more first conversations with applications tuned to the role and outreach that earns replies, turn a thin network into a steady stream of warm intros, and walk into the offer talk with the anchoring and BATNA prep to capture what you are worth. One kit for the whole search, from first application to signed offer.
+Reach for this when you are actively job hunting and want every stage to pull in the same direction. Land more first conversations with applications tuned to the role, cover letters that mirror the posting's top three requirements in under 300 words, and outreach that earns replies; walk into interviews with a STAR story bank mined from your own resume and a mock-interview loop; turn a thin network into warm intros; and close with the three-number negotiation system (minimum / target / anchor) and scripted counters. One kit from first application to signed offer.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
@@ -14,11 +14,13 @@ Reach for this when you are actively job hunting and want every stage to pull in
 
 ## Skills in this pack
 
-- **[Job Application Writer](skills/job-application/SKILL.md)** — Tailors resumes and cover letters to specific job descriptions with ATS optimization.
-- **[Salary Negotiation](skills/salary-negotiation/SKILL.md)** — Scripts salary and offer negotiations with anchoring, BATNA preparation, and timing.
-- **[Networking System](skills/networking-system/SKILL.md)** — Builds a systematic professional network: outreach, follow-up cadence, and relationship maintenance.
-- **[LinkedIn Post Writer](skills/linkedin-post-writer/SKILL.md)** — Viral LinkedIn posts: hook formulas, formatting patterns, and CTAs that actually get engagement.
-- **[Cold Email Craft](skills/cold-email-craft/SKILL.md)** — B2B cold outreach that gets replies: tight personalization, brevity, and a low-friction ask.
+- **[Job Application Writer](skills/job-application/SKILL.md)** — Tailors a resume and writes a cover letter for one specific job description — mirroring JD keywords for ATS parsing, reordering bullets by relevance, quantifying impact, and reporting which JD keywords matched and which are missing.
+- **[Cover Letter Writer](skills/cover-letter-writer/SKILL.md)** — Writes a tailored cover letter from a resume and a job posting — mirrors the posting's top three requirements with resume evidence, opens with a company-specific hook, and stays under 300 words.
+- **[Job Interview Prep](skills/job-interview-prep/SKILL.md)** — Prepares a candidate for a specific job interview — company research checklist, a STAR story bank mined from their resume and mapped to common competencies, a questions-to-ask bank, salary-question deflection lines, and a mock-interview loop.
+- **[Salary Negotiation](skills/salary-negotiation/SKILL.md)** — Prepares and scripts salary and job-offer negotiations — market research, target/minimum/anchor numbers, BATNA strength, deflection and counter scripts, and total-compensation trades when base is capped.
+- **[Networking System](skills/networking-system/SKILL.md)** — Builds a repeatable professional networking system — a tiered contact tracker, give-first outreach and reconnect scripts, a follow-up cadence by tier, and a weekly relationship-hour routine — so staying in touch stops depending on willpower.
+- **[LinkedIn Post Writer](skills/linkedin-post-writer/SKILL.md)** — Write LinkedIn posts built for the feed — a hook that survives the two-line truncation, scannable one-idea-per-line structure, a comment-bait close, and first-hour engagement moves.
+- **[Cold Email Craft](skills/cold-email-craft/SKILL.md)** — Write short, personalized B2B cold emails and follow-up copy — under 90 words, one ask, personalization in the first line — with good/bad contrast pairs to calibrate.
 
 ## License
 
