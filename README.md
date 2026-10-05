@@ -1,16 +1,17 @@
 # Job Search Kit
 
-**For job seekers: tailored applications to a signed offer, plus outreach and negotiation.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For job seekers: tailored applications to a signed offer, plus outreach and negotiation.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-job-search-kit).
 
 Reach for this when you are actively job hunting and want every stage to pull in the same direction. Land more first conversations with applications tuned to the role, cover letters that mirror the posting's top three requirements in under 300 words, and outreach that earns replies; walk into interviews with a STAR story bank mined from your own resume and a mock-interview loop; turn a thin network into warm intros; and close with the three-number negotiation system (minimum / target / anchor) and scripted counters. One kit from first application to signed offer.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/job-search-kit](https://skillme.dev/pack/job-search-kit) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/job-search-kit?utm_source=github&utm_medium=readme&utm_campaign=pack-job-search-kit) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add job-application cover-letter-writer job-interview-prep salary-negotiation networking-system linkedin-post-writer cold-email-craft --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/job-search-kit`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -25,4 +26,4 @@ Reach for this when you are actively job hunting and want every stage to pull in
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-job-search-kit).
